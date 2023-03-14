@@ -26,6 +26,7 @@ public class ToggleRay : MonoBehaviour
 
     public void ActivateRay()
     {
+        
         if (!TouchingObject() || forceToggle)
             SwitchInteractors(true);
     }
