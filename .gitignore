@@ -26,6 +26,9 @@
 
 #Oculus spul
 /[Aa]ssets/[Oo]culus/
+
+#resources
+/[Aa]ssets/[Rr]esources]
 # Visual Studio cache directory
 .vs/
 
