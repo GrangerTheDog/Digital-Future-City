@@ -25,10 +25,10 @@
 /[Aa]ssets/Plugins/Editor/JetBrains*
 
 #Oculus spul
-/Assets/Oculus/
+/[Aa]ssets/Oculus
 
 #resources
-/[Aa]ssets/[Resources]
+/[Aa]ssets/Resources
 # Visual Studio cache directory
 .vs/
 
